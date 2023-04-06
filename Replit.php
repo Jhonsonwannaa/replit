@@ -1,6 +1,4 @@
-Google Translate
-Original text
-Contribute a better translation
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
